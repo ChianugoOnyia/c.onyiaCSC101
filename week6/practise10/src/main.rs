@@ -11,7 +11,7 @@ fn main() {
     if (c>10) || (d>10) {
         println!("true");
     }
-    let is_elder =true;
+    let is_elder = false;
 
     if !is_elder {
         println!("Not Elder");
