@@ -1,0 +1,4 @@
+PAU SMIS
+Student Name | Matric Number | Department | Level
+OLATUNDE | 1234 | MASS COMMUNICATION | 100
+ONYIA | 34567 | COMPUTER SCUENCE | 200
